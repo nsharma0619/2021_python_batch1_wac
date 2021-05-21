@@ -1,0 +1,3 @@
+https://github.com/sahilraj-001x/currency_exchange_api --sahil
+https://github.com/deepjoyd/Temporary --deep
+"https://api.pokemontcg.io/v1/cards?name={}".format(poke_name)Now the file has more content!
